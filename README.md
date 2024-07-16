@@ -17,7 +17,7 @@
             <td style="width: 16%;" rowspan="2">&nbsp;</td>
             <td align="center" colspan="4"><a href="https://github.com/inakilastra/Libft" target="_blank">Libft</a></td> 
             <td align="center" colspan="4"><a href="https://github.com/inakilastra/Get_Next_Line" target="_blank">Get Next Line</a></td> 
-            <td align="center" colspan="4">Born2beroot</td> 
+            <td align="center" colspan="4"><a href="https://github.com/inakilastra/Born2beroot" target="_blank">Born2beroot</a></td> 
         </tr>
         <tr>
             <td align="center" colspan="4"><a href="https://github.com/inakilastra/NetPractice" target="_blank">NetPractice</a></td> 
