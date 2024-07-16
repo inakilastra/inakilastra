@@ -11,7 +11,7 @@
         <tr>
             <td align="center" style="width: 16%;"><a href="https://github.com/inakilastra/ExamZIP" target="_blank">ExamZIP</a></td>
             <td align="center" colspan="8">Si eres ZIP practica con este Simulador</td> 
-            <td align="center" colspan="4">Si eres ZIP practica con este Simulador</td>
+            <td align="center" colspan="4"><a href="https://github.com/inakilastra/Mi_Exman_ZIP" target="_blank">Mi Exam ZIP</a></td>
         </tr>    
         <tr>
             <td style="width: 16%;" rowspan="2">&nbsp;</td>
