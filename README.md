@@ -25,18 +25,18 @@
         </tr>
         <tr>
             <td align="center" style="width: 16%;">C++</td> 
-            <td align="center"><a href="https://github.com/inakilastra/CPP00" target="_blank">00</a></td>
-            <td align="center"><a href="https://github.com/inakilastra/CPP01" target="_blank">01</a></td>
-            <td align="center">02</td>
-            <td align="center">03</td>
-            <td align="center">04</td>
-            <td align="center">05</td>
-            <td align="center">06</td>
-            <td align="center">07</td>
-            <td align="center">08</td>
-            <td align="center">09</td>
-            <td align="center">10</td>
-            <td align="center">11</td>
+            <td align="center" style="width: 7%;"><a href="https://github.com/inakilastra/CPP00" target="_blank">00</a></td>
+            <td align="center" style="width: 7%;"><a href="https://github.com/inakilastra/CPP01" target="_blank">01</a></td>
+            <td align="center" style="width: 7%;">02</td>
+            <td align="center" style="width: 7%;">03</td>
+            <td align="center" style="width: 7%;">04</td>
+            <td align="center" style="width: 7%;">05</td>
+            <td align="center" style="width: 7%;">06</td>
+            <td align="center" style="width: 7%;">07</td>
+            <td align="center" style="width: 7%;">08</td>
+            <td align="center" style="width: 7%;">09</td>
+            <td align="center" style="width: 7%;">webserv</td>
+            <td align="center" style="width: 7%;">ft_irc</td>
         </tr>                                
     </tbody>
 </table>
