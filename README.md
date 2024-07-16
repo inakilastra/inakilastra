@@ -15,7 +15,7 @@
         </tr>
         <tr> 
             <td>&nbsp;</td>
-            <td align="center" colspan="8">Mis Soluciones al ExmanZIP</td> 
+            <td align="center" colspan="8">Mis Soluciones Explicadas al ExmanZIP</td> 
             <td align="center" colspan="4"><a href="https://github.com/inakilastra/Mi_Exman_ZIP" target="_blank">Mi Exam ZIP</a> :ballot_box_with_check:</td>
         </tr>  
         <tr>
