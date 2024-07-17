@@ -1,89 +1,20 @@
 ## Iñaki 👋
 
-<table>
-    <thead>
-        <tr>
-            <th align="center" colspan="2">Leyenda</th> 
-        </tr> 
-    </thead>
-    <tbody>
-        <tr> 
-            <td align="center">Módulo Terminado</td> 
-            <td align="center">&emsp; :ballot_box_with_check: &emsp;</td>
-        </tr>
-        <tr> 
-            <td align="center">Módulo Sin Terminar</td> 
-            <td align="center">&emsp; :construction: &emsp;</td>
-        </tr>     
-    </tbody>
-</table>
-
-<table>
-    <thead>
-        <tr>
-            <th align="center" colspan="13"><h2>Mi recorrido ZIP en 42 Urduliz</h2></th> 
-        </tr> 
-    </thead>
-    <tbody>
-        <tr>
-            <td>&nbsp;</td>  
-            <td align="center" colspan="8">Si eres ZIP practica con este Simulador</td> 
-            <td align="center" colspan="4"><a href="https://github.com/inakilastra/ExamZIP" style="text-decoration: none;color: #333;">ExamZIP</a> :ballot_box_with_check:</td>
-        </tr>
-        <tr> 
-            <td>&nbsp;</td>
-            <td align="center" colspan="8">Mis Soluciones Explicadas al ExmanZIP</td> 
-            <td align="center" colspan="4"><a href="https://github.com/inakilastra/Mi_Exman_ZIP" target="_blank">Mi Exam ZIP</a> :ballot_box_with_check:</td>
-        </tr>  
-        <tr>
-            <td rowspan="2">&nbsp;</td>
-            <td align="center" colspan="4"><a href="https://github.com/inakilastra/Libft" target="_blank">Libft</a> :ballot_box_with_check:</td> 
-            <td align="center" colspan="4"><a href="https://github.com/inakilastra/Get_Next_Line" target="_blank">Get Next Line</a> :ballot_box_with_check:</td> 
-            <td align="center" colspan="4"><a href="https://github.com/inakilastra/Born2beroot" target="_blank">Born2beroot</a> :ballot_box_with_check:</td> 
-        </tr>
-        <tr>
-            <td align="center" colspan="4"><a href="https://github.com/inakilastra/NetPractice" target="_blank">NetPractice</a> :construction:</td> 
-            <td align="center" colspan="8">Bgp At Doors of Autonomous Systems is Simple BADASS</td> 
-        </tr>
-        <tr>
-            <td align="center">C++</td> 
-            <td align="center"><a href="https://github.com/inakilastra/CPP00" target="_blank">00</a> :ballot_box_with_check:</td>
-            <td align="center"><a href="https://github.com/inakilastra/CPP01" target="_blank">01</a> :construction:</td>
-            <td align="center">02</td>
-            <td align="center">03</td>
-            <td align="center">04</td>
-            <td align="center">05</td>
-            <td align="center">06</td>
-            <td align="center">07</td>
-            <td align="center">08</td>
-            <td align="center">09</td>
-            <td align="center">webserv</td>
-            <td align="center">ft_irc</td>
-        </tr>      
-    </tbody>
-</table>
-
-**Leyenda**
-
-| Módulo Terminado: :ballot_box_with_check:
-| Módulo Sin Terminar: :construction:
-
 **Mi recorrido ZIP en 42 Urduliz**
+| Si eres ZIP practica con este Simulador | [ExamZIP](https://github.com/inakilastra/ExamZIP) :heavy_check_mark: |
+|---|---|
+| **Mis soluciones explicadas del ExmanZIP** | [Mi Exam ZIP](https://github.com/inakilastra/Mi_Exman_ZIP) :heavy_check_mark: |
 
-| Si eres ZIP practica con este Simulador | [ExamZIP](https://github.com/inakilastra/ExamZIP) :ballot_box_with_check:
-| Mis Soluciones Explicadas al ExmanZIP | [Mi Exam ZIP](https://github.com/inakilastra/Mi_Exman_ZIP) :ballot_box_with_check:
-| |
-| Libft :ballot_box_with_check: | Get Next Line :ballot_box_with_check: | Born2beroot  :ballot_box_with_check: |
-| NetPractice | :construction: |
-| --- | --- |
-| Bgp At Doors of Autonomous Systems is Simple BADASS |  |
-| C++ |  |
-| 00 | [00](https://github.com/inakilastra/CPP00) :ballot_box_with_check: |
-| 01 | [01](https://github.com/inakilastra/CPP01) :construction: |
-| 02 |  |
-| ... | ...|
-| webserv |  |
-| ft_irc |  |
+
+| [Libft](https://github.com/inakilastra/Libft) :heavy_check_mark: | [Get Next Line](https://github.com/inakilastra/Get_Next_Line) :heavy_check_mark: | [Born2beroot](https://github.com/inakilastra/Born2beroot)  :heavy_check_mark: |
+|---|---|---|
+
+| [NetPractice](https://github.com/inakilastra/NetPractice) :construction: | Bgp At Doors of Autonomous Systems is Simple BADASSS |
+|---|---|
+
+
+| C++ | [00](https://github.com/inakilastra/CPP00) :heavy_check_mark: | [01](https://github.com/inakilastra/CPP01) :construction: | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | webserv | ft_irc | 
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 
 <!--
