@@ -1,28 +1,18 @@
 ## Iñaki 👋
 
-```html
-<html>
-<body style="background-color: #E6E6FA;">
-# Ejemplo de fondo y texto
-
-Este texto está en **negro** sobre un fondo **lavanda**. <span style="color: black;">¡Texto negro!</span>
-</body>
-</html>
-```
-
 <table>
     <thead>
         <tr>
-            <th align="center"><h4>Leyenda</h4></th> 
+            <th align="center" colspan="2"><h4>Leyenda</h4></th> 
         </tr> 
     </thead>
     <tbody>
         <tr> 
-            <td align="center" ><strong>Módulo Terminado</strong></td> 
-            <td align="center">&emsp; :ballot_box_with_check: &emsp;</td>
+            <td align="center" ><h4>Módulo Terminado</h4></td> 
+            <td align="center"><h4>&emsp; :ballot_box_with_check: &emsp;</h4></td>
         </tr>
         <tr> 
-            <td align="center" ><strong>Módulo Sin Terminar</strong></td> 
+            <td align="center" ><h4>Módulo Sin Terminar</h4></td> 
             <td align="center">&emsp; :construction: &emsp;</td>
         </tr>     
     </tbody>
