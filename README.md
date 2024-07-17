@@ -65,21 +65,15 @@
 
 **Leyenda**
 
-* Módulo Terminado: :ballot_box_with_check:
-* Módulo Sin Terminar: :construction:
+| Módulo Terminado: :ballot_box_with_check:
+| Módulo Sin Terminar: :construction:
 
 **Mi recorrido ZIP en 42 Urduliz**
 
-* Si eres ZIP practica con este Simulador [ExamZIP](https://github.com/inakilastra/ExamZIP) :ballot_box_with_check:
-* Mis Soluciones Explicadas al ExmanZIP [Mi Exam ZIP](https://github.com/inakilastra/Mi_Exman_ZIP) :ballot_box_with_check:
-
-**Progreso por Módulo**
-
-| Módulo | Estado |
-|---|---|
-| Libft | :ballot_box_with_check: |
-| Get Next Line | :ballot_box_with_check: |
-| Born2beroot | :ballot_box_with_check: |
+| Si eres ZIP practica con este Simulador | [ExamZIP](https://github.com/inakilastra/ExamZIP) :ballot_box_with_check:
+| Mis Soluciones Explicadas al ExmanZIP | [Mi Exam ZIP](https://github.com/inakilastra/Mi_Exman_ZIP) :ballot_box_with_check:
+| |
+| Libft :ballot_box_with_check: | Get Next Line :ballot_box_with_check: | Born2beroot  :ballot_box_with_check: |
 | NetPractice | :construction: |
 | --- | --- |
 | Bgp At Doors of Autonomous Systems is Simple BADASS |  |
@@ -90,23 +84,6 @@
 | ... | ...|
 | webserv |  |
 | ft_irc |  |
-
-**Coloring Text in Markdown (Limited Options):**
-
-While Markdown doesn't support inline text coloring, you can utilize code blocks with diff syntax to introduce some basic color highlighting. However, this method has limitations:
-
-* **Color options:** You're restricted to a few predefined colors like `red`, `green`, `orange`, `gray`, and `purple`.
-* **No font control:** You cannot change the font style or weight using this method.
-* **Limited applicability:** This approach is more suitable for highlighting specific text snippets or code elements rather than extensive coloring throughout the document.
-
-Here's an example:
-
-```diff
-This text is the default color.
-! This text will be colored orange.
-+ This text will be colored green.
-# This text will be colored gray.
-@@ This text will be colored purple (and bold). @@
 
 
 <!--
