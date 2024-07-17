@@ -6,7 +6,7 @@
 
 Este texto está en **negro** sobre un fondo **lavanda**. <span style="color: black;">¡Texto negro!</span>
 </body>
-``
+```
 
 <table>
     <thead>
