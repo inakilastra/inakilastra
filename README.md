@@ -1,5 +1,22 @@
 ## Iñaki 👋
   
+<table>
+    <thead>
+        <tr>
+            <th align="center"><h4>Leyenda</h4></th> 
+        </tr> 
+    </thead>
+    <tbody>
+        <tr> 
+            <td align="center" ><strong>Módulo Terminado</strong></td> 
+            <td align="center">&emsp;:ballot_box_with_check:&emsp;</td>
+        </tr>
+        <tr> 
+            <td align="center" ><strong>Módulo Sin Terminar</strong></td> 
+            <td align="center">&emsp;:construction:&emsp;</td>
+        </tr>     
+    </tbody>
+</table>
 
 <table>
     <thead>
