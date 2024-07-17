@@ -9,7 +9,7 @@
 |---|
 | **Este es el código explicado de** [mi Exam 42 ZIP](https://github.com/inakilastra/Mi_Exman_ZIP) :heavy_check_mark: |
 
-| [NetPractice](https://github.com/inakilastra/NetPractice) :construction: | Bgp At Doors of Autonomous Systems is Simple BADASSS |
+| [NetPractice](https://github.com/inakilastra/NetPractice) :construction: | Bgp At Doors of Autonomous Systems is Simple BADASS |
 |---|---|
 
 | C++ | [00](https://github.com/inakilastra/CPP00) :heavy_check_mark: | [01](https://github.com/inakilastra/CPP01) :construction: | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | webserv | ft_irc | 
