@@ -9,11 +9,11 @@
     <tbody>
         <tr> 
             <td align="center" ><strong>Módulo Terminado</strong></td> 
-            <td align="center">&emsp;:ballot_box_with_check:&emsp;</td>
+            <td align="center">&emsp; :ballot_box_with_check: &emsp;</td>
         </tr>
         <tr> 
             <td align="center" ><strong>Módulo Sin Terminar</strong></td> 
-            <td align="center">&emsp;:construction:&emsp;</td>
+            <td align="center">&emsp; :construction: &emsp;</td>
         </tr>     
     </tbody>
 </table>
