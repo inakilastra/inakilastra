@@ -1,11 +1,13 @@
 ## Iñaki 👋
 
 ```html
+<html>
 <body style="background-color: #E6E6FA;">
 # Ejemplo de fondo y texto
 
 Este texto está en **negro** sobre un fondo **lavanda**. <span style="color: black;">¡Texto negro!</span>
 </body>
+</html>
 ```
 
 <table>
