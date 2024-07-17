@@ -63,6 +63,33 @@
     </tbody>
 </table>
 
+**Leyenda**
+
+* Módulo Terminado: :ballot_box_with_check:
+* Módulo Sin Terminar: :construction:
+
+**Mi recorrido ZIP en 42 Urduliz**
+
+* Si eres ZIP practica con este Simulador [ExamZIP](https://github.com/inakilastra/ExamZIP) :ballot_box_with_check:
+* Mis Soluciones Explicadas al ExmanZIP [Mi Exam ZIP](https://github.com/inakilastra/Mi_Exman_ZIP) :ballot_box_with_check:
+
+**Progreso por Módulo**
+
+| Módulo | Estado |
+|---|---|
+| Libft | :ballot_box_with_check: |
+| Get Next Line | :ballot_box_with_check: |
+| Born2beroot | :ballot_box_with_check: |
+| NetPractice | :construction: |
+| --- | --- |
+| Bgp At Doors of Autonomous Systems is Simple BADASS |  |
+| C++ |  |
+| 00 | [00](https://github.com/inakilastra/CPP00) :ballot_box_with_check: |
+| 01 | [01](https://github.com/inakilastra/CPP01) :construction: |
+| 02 |  |
+| ... | ...|
+| webserv |  |
+| ft_irc |  |
 
 
 <!--
