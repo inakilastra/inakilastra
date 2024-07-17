@@ -3,16 +3,16 @@
 <table>
     <thead>
         <tr>
-            <th align="center" colspan="2"><h4>Leyenda</h4></th> 
+            <th align="center" colspan="2">Leyenda</th> 
         </tr> 
     </thead>
     <tbody>
         <tr> 
-            <td align="center" ><h4>Módulo Terminado</h4></td> 
-            <td align="center"><h4>&emsp; :ballot_box_with_check: &emsp;</h4></td>
+            <td align="center">Módulo Terminado</td> 
+            <td align="center">&emsp; :ballot_box_with_check: &emsp;</td>
         </tr>
         <tr> 
-            <td align="center" ><h4>Módulo Sin Terminar</h4></td> 
+            <td align="center">Módulo Sin Terminar</td> 
             <td align="center">&emsp; :construction: &emsp;</td>
         </tr>     
     </tbody>
@@ -28,7 +28,7 @@
         <tr>
             <td>&nbsp;</td>  
             <td align="center" colspan="8">Si eres ZIP practica con este Simulador</td> 
-            <td align="center" colspan="4"><a href="https://github.com/inakilastra/ExamZIP" target="_blank">ExamZIP</a> :ballot_box_with_check:</td>
+            <td align="center" colspan="4"><a href="https://github.com/inakilastra/ExamZIP" style="text-decoration: none;color: #333;">ExamZIP</a> :ballot_box_with_check:</td>
         </tr>
         <tr> 
             <td>&nbsp;</td>
