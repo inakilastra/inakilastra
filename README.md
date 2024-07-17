@@ -91,6 +91,23 @@
 | webserv |  |
 | ft_irc |  |
 
+**Coloring Text in Markdown (Limited Options):**
+
+While Markdown doesn't support inline text coloring, you can utilize code blocks with diff syntax to introduce some basic color highlighting. However, this method has limitations:
+
+* **Color options:** You're restricted to a few predefined colors like `red`, `green`, `orange`, `gray`, and `purple`.
+* **No font control:** You cannot change the font style or weight using this method.
+* **Limited applicability:** This approach is more suitable for highlighting specific text snippets or code elements rather than extensive coloring throughout the document.
+
+Here's an example:
+
+```diff
+This text is the default color.
+! This text will be colored orange.
++ This text will be colored green.
+# This text will be colored gray.
+@@ This text will be colored purple (and bold). @@
+
 
 <!--
 **inakilastra/inakilastra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
