@@ -1,4 +1,4 @@
-## Iñaki :abacus:
+## :heavy_check_mark: Iñaki:copyright: :abacus:
 
 **Mi recorrido ZIP en 42 Urduliz**
 | [Libft](https://github.com/inakilastra/Libft) :heavy_check_mark: | [Get Next Line](https://github.com/inakilastra/Get_Next_Line) :heavy_check_mark: | [Born2beroot](https://github.com/inakilastra/Born2beroot)  :heavy_check_mark: |
