@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">:heavy_check_mark: Hola, soy Iñaki :abacus:</h1>
+  <h1 align="center">:abacus: Hola, soy Iñaki</h1>
 </div>
 
 **Mi recorrido ZIP en 42 Urduliz**
