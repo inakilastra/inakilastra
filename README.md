@@ -17,9 +17,11 @@
 | C++ | [00](https://github.com/inakilastra/CPP00) :heavy_check_mark: | [01](https://github.com/inakilastra/CPP01) :construction: | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | webserv | ft_irc | 
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 
+<br /><br /><br />
 <a href="https://github.com/inakilastra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=inakilastra&show_icons=true&theme=ambient_gradient&locale=es" />
 </a>
+&nbsp;&nbsp;
 <a href="https://github.com/inakilastra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inakilastra&layout=compact&locale=es" />
 </a>
