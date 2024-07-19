@@ -2,7 +2,8 @@
   <h1 align="center">:heavy_check_mark: Hola, soy Iñaki :abacus:</h1>
 </div>
 
-![Mastodon Follow](https://img.shields.io/mastodon/follow/inakilastra)
+
+
 
 
 **Mi recorrido ZIP en 42 Urduliz**
