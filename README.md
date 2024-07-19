@@ -2,6 +2,9 @@
   <h1 align="center">:heavy_check_mark: Hola, soy Iñaki :abacus:</h1>
 </div>
 
+![Mastodon Follow](https://img.shields.io/mastodon/follow/inakilastra)
+
+
 **Mi recorrido ZIP en 42 Urduliz**
 | [Libft](https://github.com/inakilastra/Libft) :heavy_check_mark: | [Get Next Line](https://github.com/inakilastra/Get_Next_Line) :heavy_check_mark: | [Born2beroot](https://github.com/inakilastra/Born2beroot)  :heavy_check_mark: |
 |---|---|---|
