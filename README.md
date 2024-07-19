@@ -2,6 +2,13 @@
   <h1 align="center">:abacus: Hola, soy Iñaki</h1>
 </div>
 
+![Banner (claro)](https://raw.githubusercontent.com/inakilastra/inakilastra/main/images/42_zip_urduliz.png)
+
+ <img align="left" src="https://raw.githubusercontent.com/inakilastra/inakilastra/main/images/42_zip_urduliz.png" />
+
+[![42 Urduliz](https://img.shields.io/badge/Urduliz-black?style=flat&logo=42&logoColor=white)](https://profile.intra.42.fr/users/ilastra-)
+![Visitas](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Finakilastra%2Finakilastra&label=Visitas&countColor=%23d9e3f0&style=flat&labelStyle=lower)
+
 ### **Mi recorrido ZIP en 42 Urduliz**
 | [Libft](https://github.com/inakilastra/Libft) :heavy_check_mark: | [Get Next Line](https://github.com/inakilastra/Get_Next_Line) :heavy_check_mark: | [Born2beroot](https://github.com/inakilastra/Born2beroot)  :heavy_check_mark: |
 |---|---|---|
