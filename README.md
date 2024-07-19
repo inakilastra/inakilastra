@@ -17,6 +17,15 @@
 | C++ | [00](https://github.com/inakilastra/CPP00) :heavy_check_mark: | [01](https://github.com/inakilastra/CPP01) :construction: | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | webserv | ft_irc | 
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 
+<br /><br />
+
+<a href=”https://www.linkedin.com/in/yushi95/">
+<img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/>
+</a>
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
+
+[Born2beroot](https://www.linkedin.com/in/inakilastra)
+
 <br /><br /><br />
 <a href="https://github.com/inakilastra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=inakilastra&show_icons=true&theme=ambient_gradient&locale=es" />
