@@ -8,7 +8,7 @@
 ![Visitas](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Finakilastra%2Finakilastra&label=Visitas&countColor=%23d9e3f0&style=flat&labelStyle=lower)
 
 
-![Banner (claro)](https://raw.githubusercontent.com/inakilastra/inakilastra/main/images/nautilus.png)
+![Nautilus](https://raw.githubusercontent.com/inakilastra/inakilastra/main/images/nautilus.png)
 
 
 ### **Mi recorrido ZIP en 42 Urduliz**
