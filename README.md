@@ -19,10 +19,10 @@
 
 <br /><br />
 
-<a href=”https://www.linkedin.com/in/yushi95/">
-<img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/>
+<a href=”https://www.linkedin.com/in/inakilastra/">
+<img align=”left” src=”https://raw.githubusercontent.com/inakilastra/inakilastra/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/>
 </a>
-<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/inakilastra/"><img align=”left” src=”https://raw.githubusercontent.com/inakilastra/inakilastra/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
 
 [Born2beroot](https://www.linkedin.com/in/inakilastra)
 
