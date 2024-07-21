@@ -14,10 +14,10 @@
 | [Libft](https://github.com/inakilastra/Libft) :heavy_check_mark: | [Get Next Line](https://github.com/inakilastra/Get_Next_Line) :heavy_check_mark: | [Born2beroot](https://github.com/inakilastra/Born2beroot)  :heavy_check_mark: |
 |---|---|---|
 
-| **Exam 42 ZIP** |  |  |
-|---|---|---|
-| Practica con el simulador de [Exam 42 ZIP](https://github.com/inakilastra/ExamZIP) :heavy_check_mark: | ![GitHub Repo stars](https://img.shields.io/github/stars/inakilastra/ExamZIP) | ![Visitas](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Finakilastra%2FExamZIP&label=Visitas&countColor=%23d9e3f0&style=flat&labelStyle=lower)
-| **Este es el código explicado de** [mi Exam 42 ZIP](https://github.com/inakilastra/Mi_Exman_ZIP) :heavy_check_mark: | ![GitHub Repo stars](https://img.shields.io/github/stars/inakilastra/Mi_Exman_ZIP) | ![Visitas](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Finakilastra%2FMi_Exman_ZIP&label=Visitas&countColor=%23d9e3f0&style=flat&labelStyle=lower)
+| **Exam 42 ZIP** |
+|---|
+| Practica con el simulador de [Exam 42 ZIP](https://github.com/inakilastra/ExamZIP) :heavy_check_mark: 
+| **Este es el código explicado de** [mi Exam 42 ZIP](https://github.com/inakilastra/Mi_Exman_ZIP) :heavy_check_mark: 
 
 
 
