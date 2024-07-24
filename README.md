@@ -30,14 +30,19 @@
 <div align="left">
   <h3>Mis RRSS</h3>
   <a href="https://www.linkedin.com/in/inakilastra/">
-    <img align="left" src="https://raw.githubusercontent.com/inakilastra/inakilastra/main/images/linkedin.svg" alt="icon | LinkedIn" width="21px"/>
+    <img align="left" src="https://raw.githubusercontent.com/inakilastra/inakilastra/main/images/linkedin.svg" alt="icon | LinkedIn" width="42px"/>
   </a>
   &emsp;
   <a href="https://www.instagram.com/inakilastra">
-    <img align="left" src="https://raw.githubusercontent.com/inakilastra/inakilastra/main/images/instagram.svg" alt="@inakilastra | Instagram" width="21px"/>
+    <img align="left" src="https://raw.githubusercontent.com/inakilastra/inakilastra/main/images/instagram.svg" alt="@inakilastra | Instagram" width="42px"/>
   </a>
 </div>
-
+<div align="left">
+  <h3>Habilidades Skills</h3>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,c,windows,azure,powershell" />
+  </a>
+</div>
 <div align="left">
   <h3>Mis Estadísticas</h3>
   <a href="https://github.com/inakilastra/github-readme-stats">
