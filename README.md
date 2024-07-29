@@ -24,8 +24,16 @@
 | [NetPractice](https://github.com/inakilastra/NetPractice) :construction: | Bgp At Doors of Autonomous Systems is Simple BADASS |
 |---|---|
 
-| C++ | [00](https://github.com/inakilastra/CPP00) :heavy_check_mark: | [01](https://github.com/inakilastra/CPP01) :construction: | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | webserv | ft_irc | 
+| C++ | [00](https://github.com/inakilastra/CPP00) :heavy_check_mark: | [01](https://github.com/inakilastra/CPP01) :heavy_check_mark: | 02 :construction: | 03 | 04 | 05 | 06 | 07 | 08 | 09 | webserv | ft_irc | 
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
+
+| Python for Data Science  - 0 - Starting | 00 | 01 | 02 :construction: | 03 | 04 | 05 | 06 | 07 | 08 | 09 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Python for Data Science  - 1 - Array | 00 | 01 | 02 | 03 | 04 | 05 |  |  |  |  |
+| Python for Data Science  - 2 - DataTable | 00 | 01 | 02 | 03 | 04 |  |  |  |  |  |
+| Python for Data Science  - 3 - OOP | 00 | 01 | 02 | 03 | 04 |  |  |  |  |  |
+| Python for Data Science  - 4 - Dod | 00 | 01 | 02 | 03 |  |  |  |  |  |  |
+
 
 <div align="left">
   <h3>Mis RRSS</h3>
