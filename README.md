@@ -10,26 +10,28 @@
 [![42 Urduliz](https://img.shields.io/badge/Urduliz-black?style=flat&logo=42&logoColor=white)](https://profile.intra.42.fr/users/ilastra-)
 ![Visitas](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Finakilastra%2Finakilastra&label=Visitas&countColor=%23d9e3f0&style=flat&labelStyle=lower)
 
-### **Mi recorrido ZIP en 42 Urduliz**
+### **Mi recorrido ZIP en 42 Urduliz**  
+<sub>:heavy_check_mark:  Evaluado  :construction:  En proceso  :grey_question:  Sin Evaluar</sub><br />
 | [Libft](https://github.com/inakilastra/Libft) :heavy_check_mark: | [Get Next Line](https://github.com/inakilastra/Get_Next_Line) :heavy_check_mark: | [Born2beroot](https://github.com/inakilastra/Born2beroot)  :heavy_check_mark: |
 |---|---|---|
+
+<br />
 
 | **Exam 42 ZIP** |
 |---|
 | Practica con el simulador de [Exam 42 ZIP](https://github.com/inakilastra/ExamZIP) :heavy_check_mark: 
 | **Este es el código explicado de** [mi Exam 42 ZIP](https://github.com/inakilastra/Mi_Exman_ZIP) :heavy_check_mark: 
 
-
-
 | [NetPractice](https://github.com/inakilastra/NetPractice) :construction: | Bgp At Doors of Autonomous Systems is Simple BADASS |
 |---|---|
 
-| C++ | [00](https://github.com/inakilastra/CPP00) :heavy_check_mark: | [01](https://github.com/inakilastra/CPP01) :heavy_check_mark: | 02 :construction: | 03 | 04 | 05 | 06 | 07 | 08 | 09 | webserv | ft_irc | 
+| C++ | [00](https://github.com/inakilastra/CPP00) :heavy_check_mark: | [01](https://github.com/inakilastra/CPP01) :heavy_check_mark: | <sup>02</sup> :construction: | 03 | 04 | 05 | 06 | 07 | 08 | 09 | webserv | ft_irc | 
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 
-| Python for Data Science | 0 - Starting :construction: | 1 - Array | 2 - DataTable | 3 - OOP | 4 - Dod |
+| Python for Data Science | <sup>0 - Starting</sup> :construction: | 1 - Array | 2 - DataTable | 3 - OOP | 4 - Dod |
 |---|---|---|---|---|---|
 
+<br /><br />
 
 <div align="left">
   <h3>Mis RRSS</h3>
