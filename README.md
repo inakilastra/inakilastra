@@ -25,7 +25,7 @@
 | [NetPractice](https://github.com/inakilastra/NetPractice) :construction: | Bgp At Doors of Autonomous Systems is Simple BADASS |
 |---|---|
 
-| C++ | [00](https://github.com/inakilastra/CPP00) :heavy_check_mark: | [01](https://github.com/inakilastra/CPP01) :heavy_check_mark: | <sup>02</sup> :construction: | 03 | 04 | 05 | 06 | 07 | 08 | 09 | webserv | ft_irc | 
+| C++ | [00](https://github.com/inakilastra/CPP00) :heavy_check_mark: | [01](https://github.com/inakilastra/CPP01) :heavy_check_mark: | <sup>[02](https://github.com/inakilastra/CPP02)</sup> :construction: | 03 | 04 | 05 | 06 | 07 | 08 | 09 | webserv | ft_irc | 
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 | Python for Data Science | <sup>0 - Starting</sup> :construction: | 1 - Array | 2 - DataTable | 3 - OOP | 4 - Dod |
