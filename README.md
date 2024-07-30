@@ -10,12 +10,14 @@
 [![42 Urduliz](https://img.shields.io/badge/Urduliz-black?style=flat&logo=42&logoColor=white)](https://profile.intra.42.fr/users/ilastra-)
 ![Visitas](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Finakilastra%2Finakilastra&label=Visitas&countColor=%23d9e3f0&style=flat&labelStyle=lower)
 
-### **Mi recorrido ZIP en 42 Urduliz**  
-<sub>:heavy_check_mark: Evaluado &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :construction: En proceso &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :grey_question: Sin Evaluar</sub><br />
-| [Libft](https://github.com/inakilastra/Libft) :heavy_check_mark: | [Get Next Line](https://github.com/inakilastra/Get_Next_Line) :heavy_check_mark: | [Born2beroot](https://github.com/inakilastra/Born2beroot)  :heavy_check_mark: |
-|---|---|---|
+### **Mi recorrido ZIP en 42 Urduliz**
+
+<sub>:heavy_check_mark: Evaluado &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :construction: En proceso &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :grey_question: Sin Evaluar</sub>
 
 <br />
+
+| [Libft](https://github.com/inakilastra/Libft) :heavy_check_mark: | [Get Next Line](https://github.com/inakilastra/Get_Next_Line) :heavy_check_mark: | [Born2beroot](https://github.com/inakilastra/Born2beroot)  :heavy_check_mark: |
+|---|---|---|
 
 | **Exam 42 ZIP** |
 |---|
@@ -43,6 +45,9 @@
     <img align="left" src="https://raw.githubusercontent.com/inakilastra/inakilastra/main/images/instagram.svg" alt="@inakilastra | Instagram" width="42px"/>
   </a>
 </div>
+
+<br /><br />
+
 <div align="left">
   <h3>Habilidades Skills</h3>
     <a href="https://skillicons.dev">
@@ -50,6 +55,9 @@
   </a>
 </div>
 <div align="left">
+
+<br /><br />
+
   <h3>Mis Estadísticas</h3>
   <a href="https://github.com/inakilastra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=inakilastra&show_icons=true&theme=ambient_gradient&locale=es" />
