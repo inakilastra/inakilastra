@@ -11,7 +11,7 @@
 ![Visitas](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Finakilastra%2Finakilastra&label=Visitas&countColor=%23d9e3f0&style=flat&labelStyle=lower)
 
 ### **Mi recorrido ZIP en 42 Urduliz**  
-<sub>:heavy_check_mark:  Evaluado  :construction:  En proceso  :grey_question:  Sin Evaluar</sub><br />
+<sub>:heavy_check_mark: Evaluado &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :construction: En proceso &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :grey_question: Sin Evaluar</sub><br />
 | [Libft](https://github.com/inakilastra/Libft) :heavy_check_mark: | [Get Next Line](https://github.com/inakilastra/Get_Next_Line) :heavy_check_mark: | [Born2beroot](https://github.com/inakilastra/Born2beroot)  :heavy_check_mark: |
 |---|---|---|
 
