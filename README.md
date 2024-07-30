@@ -22,7 +22,7 @@
 | Practica con el simulador de [Exam 42 ZIP](https://github.com/inakilastra/ExamZIP) :heavy_check_mark: 
 | **Este es el código explicado de** [mi Exam 42 ZIP](https://github.com/inakilastra/Mi_Exman_ZIP) :heavy_check_mark: 
 
-| [NetPractice](https://github.com/inakilastra/NetPractice) :construction: | Bgp At Doors of Autonomous Systems is Simple BADASS |
+| <sup>[NetPractice](https://github.com/inakilastra/NetPractice)</sup> :construction: | Bgp At Doors of Autonomous Systems is Simple BADASS |
 |---|---|
 
 | C++ | [00](https://github.com/inakilastra/CPP00) :heavy_check_mark: | [01](https://github.com/inakilastra/CPP01) :heavy_check_mark: | <sup>[02](https://github.com/inakilastra/CPP02)</sup> :construction: | 03 | 04 | 05 | 06 | 07 | 08 | 09 | webserv | ft_irc | 
