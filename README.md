@@ -21,8 +21,8 @@
 
 | **Exam 42 ZIP** |
 |---|
-| Practica con el simulador de [Exam 42 ZIP](https://github.com/inakilastra/ExamZIP) :heavy_check_mark: 
-| **Este es el código explicado de** [mi Exam 42 ZIP](https://github.com/inakilastra/Mi_Exman_ZIP) :heavy_check_mark: 
+| ***Practica con el simulador de [Exam 42 ZIP](https://github.com/inakilastra/ExamZIP)*** :heavy_check_mark: 
+| ***Este es el código explicado de [mi Exam 42 ZIP](https://github.com/inakilastra/Mi_Exman_ZIP)*** :heavy_check_mark: 
 
 | <sup>[NetPractice](https://github.com/inakilastra/NetPractice)</sup> :construction: | Bgp At Doors of Autonomous Systems is Simple BADASS |
 |---|---|
