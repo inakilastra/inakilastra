@@ -30,7 +30,7 @@
 | C++ | [00](https://github.com/inakilastra/CPP00) :heavy_check_mark: | [01](https://github.com/inakilastra/CPP01) :heavy_check_mark: | <sup>[02](https://github.com/inakilastra/CPP02)</sup> :construction: | 03 | 04 | 05 | 06 | 07 | 08 | 09 | webserv | ft_irc | 
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 
-| Python for Data Science | <sup>[0 - Starting](https://github.com/inakilastra/Python_for_Data_Science_0_Starting)</sup> :construction: | 1 - Array | 2 - DataTable | 3 - OOP | 4 - Dod |
+| Python for Data Science | [0 - Starting](https://github.com/inakilastra/Python_for_Data_Science_0_Starting) :grey_question: | <sup>[1 - Array](https://github.com/inakilastra/Python_for_Data_Science_1_Array)</sup> :construction: | 2 - DataTable | 3 - OOP | 4 - Dod |
 |---|---|---|---|---|---|
 
 <br /><br />
