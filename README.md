@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">:abacus: Hola, soy Iñaki&nbsp;
+  <h1 align="center">:abacus: Hola, soy Iñaki.&nbsp;
   <img src="https://raw.githubusercontent.com/inakilastra/inakilastra/main/images/nautilus.png" alt="Nautilus" width="25" height="25"></h1>
 </div>
 
